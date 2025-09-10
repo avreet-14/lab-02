@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Avreet Singh Kaurha`
+- **CCID:** `kaurha`
 
 ## References and Resources
 

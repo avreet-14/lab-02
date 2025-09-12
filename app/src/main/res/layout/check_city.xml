@@ -5,7 +5,7 @@
     android:layout_height="wrap_content"
     android:padding="16dp">
 
-    <!-- City name -->
+
     <TextView
         android:id="@+id/city_name"
         android:layout_width="0dp"
@@ -13,7 +13,7 @@
         android:layout_weight="1"
         android:textSize="20sp" />
 
-    <!-- Checkbox (hidden by default, visible only in delete mode) -->
+
     <CheckBox
         android:id="@+id/city_checkbox"
         android:layout_width="wrap_content"

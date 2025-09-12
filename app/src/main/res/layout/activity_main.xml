@@ -24,7 +24,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
 
-    <!-- Buttons row -->
+
     <LinearLayout
         android:id="@+id/button_row"
         android:layout_width="0dp"
@@ -62,7 +62,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
 
-    <!-- Bottom delete bar (hidden initially) -->
+
     <LinearLayout
         android:id="@+id/delete_bar"
         android:layout_width="0dp"

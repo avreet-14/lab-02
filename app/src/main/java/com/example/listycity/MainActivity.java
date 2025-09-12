@@ -37,16 +37,12 @@ public class MainActivity extends AppCompatActivity {
         cityAdapter = new CityAdapter(this, dataList);
         cityList.setAdapter(cityAdapter);
 
-        // Add city
         addButton.setOnClickListener(v -> showAddCityDialog());
 
-        // Delete mode toggle
         deleteButton.setOnClickListener(v -> toggleDeleteMode());
 
-        // Cancel delete
         cancelDeleteButton.setOnClickListener(v -> exitDeleteMode(false));
 
-        // Confirm delete
         confirmDeleteButton.setOnClickListener(v -> exitDeleteMode(true));
     }
 
